@@ -1,0 +1,4 @@
+com\jubl\coronavirus_tracker\controllers\HomeController.class
+com\jubl\coronavirus_tracker\CoronavirusTrackerApplication.class
+com\jubl\coronavirus_tracker\services\CoronaVirusDataService.class
+com\jubl\coronavirus_tracker\models\LocationStats.class
